@@ -67,3 +67,39 @@ body{
     background-color: rgb(255, 255, 255);
     outline: none;
 }
+
+#button1 {
+    background-image: url("../img/bird/rooster.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#button2 {
+    background-image: url("../img/bird/bluejay.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#button3 {
+    background-image: url("../img/bird/hawk.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#button4 {
+    background-image: url("../img/bird/crow.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#button5 {
+    background-image: url("../img/bird/cardinal.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#button6 {
+    background-image: url("../img/bird/birds.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

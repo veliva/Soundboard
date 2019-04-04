@@ -69,37 +69,37 @@ body{
 }
 
 #button6 {
-    background-image: url("../img/ricardo.jpg");
+    background-image: url("../img/meme/ricardo.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #button5 {
-    background-image: url("../img/error.jpg");
+    background-image: url("../img/meme/error.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #button2 {
-    background-image: url("../img/sanic.png");
+    background-image: url("../img/meme/sanic.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #button3 {
-    background-image: url("../img/wow.jpg");
+    background-image: url("../img/meme/wow.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #button1 {
-    background-image: url("../img/airhorn.jpg");
+    background-image: url("../img/meme/airhorn.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #button4 {
-    background-image: url("../img/spooky.png");
+    background-image: url("../img/meme/spooky.png");
     background-repeat: no-repeat;
     background-size: cover;
 }

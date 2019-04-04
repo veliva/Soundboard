@@ -67,3 +67,39 @@ body{
     background-color: rgb(255, 255, 255);
     outline: none;
 }
+
+#button1 {
+    background-image: url("../img/police/siren1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#button2 {
+    background-image: url("../img/police/siren2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#button4 {
+    background-image: url("../img/police/siren3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#button6 {
+    background-image: url("../img/police/siren4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#button3 {
+    background-image: url("../img/police/shotgun.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#button5 {
+    background-image: url("../img/police/911.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

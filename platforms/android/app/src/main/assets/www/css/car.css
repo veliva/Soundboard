@@ -67,3 +67,39 @@ body{
     background-color: rgb(255, 255, 255);
     outline: none;
 }
+
+#button1 {
+    background-image: url("../img/car/horn1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#button3 {
+    background-image: url("../img/car/horn2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#button5 {
+    background-image: url("../img/car/f1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#button2 {
+    background-image: url("../img/car/alarm.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#button6 {
+    background-image: url("../img/car/startengine.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#button4 {
+    background-image: url("../img/car/passing.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
