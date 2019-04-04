@@ -28,6 +28,10 @@
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
     <allow-intent href="market:*" />
+    <icon density="ldpi" src="icons/icon-36.png" />
+    <icon density="mdpi" src="icons/icon-48.png" />
+    <icon density="hdpi" src="icons/icon-72.png" />
+    <icon density="xhdpi" src="icons/icon-96.png" />
     <preference name="loglevel" value="DEBUG" />
     <preference name="Orientation" value="portrait" />
 </widget>

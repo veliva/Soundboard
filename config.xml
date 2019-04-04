@@ -18,6 +18,10 @@
     <allow-intent href="geo:*" />
     <platform name="android">
         <allow-intent href="market:*" />
+        <icon src="icons/icon-36.png" density="ldpi"/>
+        <icon src="icons/icon-48.png" density="mdpi"/>
+        <icon src="icons/icon-72.png" density="hdpi"/>
+        <icon src="icons/icon-96.png" density="xhdpi"/>
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />
