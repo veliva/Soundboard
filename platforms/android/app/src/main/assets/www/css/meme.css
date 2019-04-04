@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(238, 226, 59);
+}
+
+#header{
+    font-family: 'customFont';
+    font-size: 40px;
+    font-weight: bold;
+    /* background-color: aqua; */
+    flex: 1;
+    position: relative;
+    left: 35%;
+    width: 35%;
+}
+
+@font-face {
+    font-family: 'customFont';
+    src: url('../fonts/playtime.ttf');
+}
+
+.mainContainer {
+    position: absolute;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    height: 98%;
+    width: 97%;
+    flex: 1;
+}
+
+.soundContainer {
+    /* background-color: coral; */
+    flex: 1;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+}
+
+.column {
+    /* background-color: greenyellow; */
+    flex: .33;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+}
+
+.row {
+    /* background-color: mediumvioletred; */
+    flex: .5;
+    margin: auto;
+    height: 100%;
+}
+
+.soundButton {
+    border-radius: 35%;
+    position: relative;
+    left: 25%;
+    top: 25%;
+    height: 50%;
+    width: 50%;
+    font-family: 'customFont';
+    font-weight: bold;
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    outline: none;
+}
+
+#button6 {
+    background-image: url("../img/ricardo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#button5 {
+    background-image: url("../img/error.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

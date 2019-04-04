@@ -1,0 +1,74 @@
+body{
+    background-color: rgba(197, 236, 243, 0.808);
+}
+
+.mainContainer {
+    position: absolute;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    /* background-color: DodgerBlue; */
+    height: 98%;
+    width: 97%;
+    flex: 1;
+}
+
+.categories {
+    /*flex: .225;*/
+    /* border-style: solid;
+    border-width: 1px;
+    border-color: red; */
+    margin: auto;
+    width: 70%;
+    height: 100%;
+    display: flex;
+    padding: 5px;
+}
+
+.appName {
+    /*flex: .1;*/
+    /* border-style: solid;
+    border-width: 1px;
+    border-color: black; */
+    margin: auto;
+}
+
+.categoryButton {
+    position: relative;
+    border-radius: 35%;
+    background-size: cover;
+    flex: .5;
+    height: 100%;
+    left: 25%;
+    background-repeat: no-repeat;
+    outline: none;
+}
+
+.appNameMiddle {
+    font-size: 40px;
+    font-weight: bold;
+    position: relative;
+    font-family: 'customFont';
+}
+
+@font-face {
+    font-family: 'customFont';
+    src: url('../fonts/playtime.ttf');
+}
+
+#birdButton {
+    background-image: url("../img/bird.jpg");
+}
+
+#carButton {
+    background-image: url("../img/car.png");
+}
+
+#policeButton {
+    background-image: url("../img/police.jpg");
+}
+
+#memeButton {
+    background-image: url("../img/meme.gif");
+}
